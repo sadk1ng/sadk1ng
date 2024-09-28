@@ -1,4 +1,4 @@
-![Header](https://github.com/sadk1ng/sadk1ng/blob/main/assets/header.jpg) 
+![Header](https://github.com/sadk1ng/sadk1ng/blob/main/assets/header.webp) 
 
 ## About me
 Меня зовут Данила, мне 22 года, я начинающий QA-engineer. Недавно закончил курсы Нетологии "Тестировшик ПО". Меня зацепило имеено это направление, так как я играю в игры и часто вижу баги и ошибки. Был опыт бета-тестера игры. Хочу развиваться в данном направление.
