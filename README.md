@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/sadk1ng/sadk1ng/main/assets/giphy%20(1).webp" alt="center" />
+    <img src="(https://github.com/sadk1ng/sadk1ng/blob/main/assets/giphy%20(1).webp" alt="center" />
 </div>
 
 ## About me
